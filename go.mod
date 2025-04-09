@@ -1,4 +1,4 @@
-module github.com/niemp100/gopsutil/v1
+module github.com/niemp100/gopsutil/v4
 
 go 1.23
 
